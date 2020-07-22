@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Hi, I'm Snehanjan Chatterjee, a final year student from India.
 
+![Snehanjan Chatterjee's github stats](https://github-readme-stats.vercel.app/api?username=SnehanjanChatterjee&show_icons=true&theme=dark)
+
 ## Skills
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
