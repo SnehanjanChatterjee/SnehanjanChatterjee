@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Snehanjan Chatterjee, a final year student from India.
+Hi, I'm Snehanjan Chatterjee, a final year student from Future Institute of Engineering and Management.
 
 ![Snehanjan Chatterjee's github stats](https://github-readme-stats.vercel.app/api?username=SnehanjanChatterjee&show_icons=true&theme=dark)
 
