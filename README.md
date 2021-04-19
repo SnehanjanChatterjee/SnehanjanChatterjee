@@ -19,25 +19,38 @@ Hi, I'm Snehanjan Chatterjee, a final year student from Future Institute of Engi
 
 ![Snehanjan Chatterjee's github stats](https://github-readme-stats.vercel.app/api?username=SnehanjanChatterjee&show_icons=true&theme=dark)
 
-## Skills
+<!--## Skills
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/JAVA -FF0000" />  
+-->
 
 </br>
 <details>
+	<summary>Skills</summary>
+	<ul>
+    		<li>C</li>
+		<li>Core Java</li>
+		<li>C#</li>
+		<li>.NET Core</li>
+		<li>Angular</li>
+		<li>MS SQL Server</li>
+		<li>MySql</li>
+		<li>Oracle</li>
+  	</ul>
+</details>
+<details>
 	<summary>Tools</summary>
 	<ul>
-    	<li>Visual Studio Code</li> 
-  </ul>
-
+    		<li>Visual Studio Code</li>
+		<li>Visual Studio 2019</li>
+  	</ul>
 </details>
-
 <details>
 	<summary>Operating Systems</summary>
 	<ul>
 		<li>Windows</li>
-    <li>Ubuntu</li>
+    		<li>Ubuntu</li>
 	</ul>
 </details>
 </br>
