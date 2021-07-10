@@ -17,7 +17,18 @@ Here are some ideas to get you started:
 
 Hi, I'm Snehanjan Chatterjee, a Digital Specialist Engineer in Infosys.
 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SnehanjanChatterjee&repo=SnehanjanChatterjee&countColorcountColor)
+
+### Analytics ⚙️
+  
+<p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehanjanChatterjee&theme=dark"/>
+	&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehanjanChatterjee&layout=compact&langs_count=8&hide=HCL&theme=dark"/>
+<p>
+  
 ![Snehanjan Chatterjee's github stats](https://github-readme-stats.vercel.app/api?username=SnehanjanChatterjee&show_icons=true&theme=dark)
+
 
 <!--## Skills
 
@@ -55,7 +66,7 @@ Hi, I'm Snehanjan Chatterjee, a Digital Specialist Engineer in Infosys.
 </details>
 </br>
 </br>
-<a href="https://drive.google.com/file/d/1TYjl_CKQ3wX8n9MGtpuFJt6dUCEQXk3Q/view?usp=sharing"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
+<a href="https://drive.google.com/file/d/1PHraFKqHaD6BSLYmjkwOg8xuPcytvj4R/view?usp=sharing"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="https://www.linkedin.com/in/snehanjan-c-23207094/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
