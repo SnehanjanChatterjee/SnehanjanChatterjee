@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Snehanjan Chatterjee, a Digital Specialist Engineer at Infosys.
+I'm Snehanjan Chatterjee, a Specialist Programmer at Infosys.
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SnehanjanChatterjee&repo=SnehanjanChatterjee&countColorcountColor)
 
