@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **SnehanjanChatterjee/SnehanjanChatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,22 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there 👋</h1>
 
-I'm Snehanjan Chatterjee, a Specialist Programmer at Infosys.
+<p align="center">I'm Snehanjan Chatterjee, a Specialist Programmer at Infosys.</p>
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SnehanjanChatterjee&repo=SnehanjanChatterjee&countColorcountColor)
+<!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SnehanjanChatterjee&repo=SnehanjanChatterjee&countColorcountColor) -->
+<p align="center">
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SnehanjanChatterjee&repo=SnehanjanChatterjee&countColorcountColor"/>
+<p>
 
 ### Analytics ⚙️
-  
-<p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehanjanChatterjee&theme=dark"/>
 	&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehanjanChatterjee&layout=compact&langs_count=8&hide=HCL&theme=dark"/>
 <p>
-  
+ 
+<!-- <p align="center">
 ![Snehanjan Chatterjee's github stats](https://github-readme-stats.vercel.app/api?username=SnehanjanChatterjee&show_icons=true&theme=dark)
+</p> -->
 
-![](https://raw.githubusercontent.com/SnehanjanChatterjee/SnehanjanChatterjee/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnehanjanChatterjee&show_icons=true&theme=dark"/>
+<p>
+
+<!-- ![](https://raw.githubusercontent.com/SnehanjanChatterjee/SnehanjanChatterjee/main/profile-summary-card-output/github_dark/0-profile-details.svg) -->
 
 ### Languages & Tools 🛠
 
