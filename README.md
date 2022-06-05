@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<a href="https://drive.google.com/file/d/1O3J2QSt_m9HgZBSLj3DDaeefZuLlLnON/view?usp=sharing"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>&nbsp;
+<a href="https://drive.google.com/file/d/1WUN1Bwx5L4QLK2fqo11HF2GxlxJkDZi6/view?usp=sharing"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>&nbsp;
 
 <!-- <a href="https://www.linkedin.com/in/snehanjan-c-23207094/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp; -->
 <!-- <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
