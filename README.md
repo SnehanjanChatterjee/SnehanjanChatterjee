@@ -43,6 +43,13 @@ Here are some ideas to get you started:
 
 ### Languages & Tools 🛠
 
+## :computer: Coding Profiles
+
+<a href="https://leetcode.com/SnehanjanChatterjee/">![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a>&nbsp;
+<a href="https://www.hackerrank.com/snehanjan_29">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>&nbsp;
+<a href="https://www.hackerearth.com/@snehanjan1">![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)</a>&nbsp;
+<a href="https://www.codechef.com/users/snehanjan29">![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)
+
 ## 👩‍💻 Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -116,17 +123,13 @@ Here are some ideas to get you started:
 
 ### 👨👩 Social
 
-<a href="https://www.hackerrank.com/snehanjan_29">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>&nbsp;
-<a href="https://www.hackerearth.com/@snehanjan1">![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)</a>&nbsp;
-<a href="https://www.codechef.com/users/snehanjan29">![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)</a>&nbsp;
-<a href="https://leetcode.com/SnehanjanChatterjee/">![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a>&nbsp;
 <a href="https://www.researchgate.net/profile/Snehanjan-Chatterjee-2/research">![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)</a>&nbsp;
 <a href="https://www.linkedin.com/in/chatterjee-snehanjan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
 <a href="mailto:snehanjan.29@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;
 <br>
 <br>
 
-<a href="https://drive.google.com/file/d/1WUN1Bwx5L4QLK2fqo11HF2GxlxJkDZi6/view?usp=sharing"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>&nbsp;
+<a href="https://drive.google.com/file/d/1X9VpXGxtT3rYGQKHIQNYTDl12MzVjZGd/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>&nbsp;
 
 <!-- <a href="https://www.linkedin.com/in/snehanjan-c-23207094/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp; -->
 <!-- <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
