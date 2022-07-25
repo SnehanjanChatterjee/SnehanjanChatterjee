@@ -82,45 +82,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 
-<!--## Skills
-
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
-<img src="https://img.shields.io/badge/JAVA -FF0000" />  
--->
-
-<!-- </br>
-<details>
-	<summary>Skills</summary>
-	<ul>
-    		<li>C</li>
-		<li>Core Java</li>
-		<li>C#</li>
-		<li>.NET Core</li>
-		<li>Angular</li>
-		<li>MS SQL Server</li>
-		<li>MySql</li>
-		<li>Oracle</li>
-  	</ul>
-</details>
-<details>
-	<summary>Tools</summary>
-	<ul>
-    		<li>Visual Studio Code</li>
-		<li>Visual Studio 2019</li>
-  	</ul>
-</details>
-<details>
-	<summary>Operating Systems</summary>
-	<ul>
-		<li>Windows</li>
-    		<li>Ubuntu</li>
-	</ul>
-</details>
-</br> 
-</br> -->
-	
-
-
 ### 👨👩 Social
 
 <a href="https://www.researchgate.net/profile/Snehanjan-Chatterjee-2/research">![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)</a>&nbsp;
@@ -129,9 +90,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<a href="https://drive.google.com/file/d/1X9VpXGxtT3rYGQKHIQNYTDl12MzVjZGd/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>&nbsp;
-
-<!-- <a href="https://www.linkedin.com/in/snehanjan-c-23207094/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp; -->
-<!-- <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp; -->
+<a href="https://drive.google.com/file/d/1XcHQa9M2MhvaOW7UsaMkY8Mb9eX6967e/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>&nbsp;
 
