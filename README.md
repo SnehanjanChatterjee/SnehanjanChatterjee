@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ### 👨👩 Social
 
 <a href="https://www.researchgate.net/profile/Snehanjan-Chatterjee-2/research">![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)</a>&nbsp;
-<a href="https://www.linkedin.com/in/chatterjee-snehanjan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
+<a href="https://www.linkedin.com/in/snehanjanchatterjee/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>&nbsp;
 <a href="mailto:snehanjan.29@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;
 <br>
 <br>
