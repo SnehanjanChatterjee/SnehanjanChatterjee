@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">I'm Snehanjan Chatterjee, a Specialist Programmer at Infosys.</p>
+<p align="center">I'm Snehanjan Chatterjee, a Software Dev Engineer at Amazon.</p>
 
 <!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SnehanjanChatterjee&repo=SnehanjanChatterjee&countColorcountColor) -->
 <p align="center">
