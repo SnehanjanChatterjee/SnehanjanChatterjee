@@ -60,13 +60,13 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; -->
 
 ## ⚡ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
+<!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp; -->
 
 ## 🚀 Frameworks
 
@@ -91,5 +91,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<a href="https://drive.google.com/file/d/1XcHQa9M2MhvaOW7UsaMkY8Mb9eX6967e/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>&nbsp;
+<a href="https://drive.google.com/file/d/1C_N0k1s3PKoWlyHjycaN7RYzPfBNutqM/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>&nbsp;
 
