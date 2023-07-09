@@ -92,5 +92,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<a href="https://drive.google.com/file/d/1C_N0k1s3PKoWlyHjycaN7RYzPfBNutqM/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>&nbsp;
+<a href="https://drive.google.com/file/d/1oLkbqQ6TLQlPUeA-2Yr-uP8s8tm0Badq/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>&nbsp;
 
