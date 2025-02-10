@@ -60,7 +60,8 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/SnehanjanChatterjee/">![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a>&nbsp;
 <a href="https://www.hackerrank.com/snehanjan_29">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>&nbsp;
 <a href="https://www.hackerearth.com/@snehanjan29">![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)</a>&nbsp;
-<!-- <a href="https://www.codechef.com/users/snehanjan29">![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white) -->
+<a href="https://www.geeksforgeeks.org/user/snehanjanchatterjee/">![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)</a>&nbsp;
+<a href="https://www.codechef.com/users/snehanjan29">![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)
 
 ## 👩‍💻 Languages
 
