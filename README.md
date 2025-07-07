@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SnehanjanChatterjee)
+<!-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SnehanjanChatterjee) -->
 
 <!-- NOT WORKING -->
 <!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SnehanjanChatterjee&repo=SnehanjanChatterjee&countColorcountColor) -->
