@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehanjanChatterjee&theme=dark"/>
 	&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehanjanChatterjee&layout=compact&langs_count=8&hide=HCL&theme=dark"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SnehanjanChatterjee&layout=compact&langs_count=8&hide=HCL&theme=dark"/>
 <p>
  
 <!-- <p align="center">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnehanjanChatterjee&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SnehanjanChatterjee&show_icons=true&theme=dark"/>
 <p>
 
 <!-- ![](https://raw.githubusercontent.com/SnehanjanChatterjee/SnehanjanChatterjee/main/profile-summary-card-output/github_dark/0-profile-details.svg) -->
