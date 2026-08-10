@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ### Analytics ⚙️
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehanjanChatterjee&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=SnehanjanChatterjee&theme=dark"/>
 	&nbsp;&nbsp;
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SnehanjanChatterjee&layout=compact&langs_count=8&hide=HCL&theme=dark"/>
 <p>
